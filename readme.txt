@@ -1,4 +1,4 @@
-	Jupyter notebook-SP500_Visualization
+Jupyter notebook-SP500_Visualization
 
 ---Introduction
 
@@ -26,6 +26,7 @@ conda install pandas
 conda install numpy
 conda install -c conda-forge altair
 conda install -c conda-forge prettytable
+
 
 
 Versions used:
