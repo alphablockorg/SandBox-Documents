@@ -1,4 +1,4 @@
-Jupyter notebook-SP500_Visualization
+Jupyter notebook-Visualization
 
 ---Introduction
 
