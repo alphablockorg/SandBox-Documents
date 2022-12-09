@@ -1,0 +1,29 @@
+
+---------------THIRD PARAGRAPH-------------------------
+
+
+
+********** SP500 ************
+
+Exceptional & Rich U.S. 500 consists of the 500 large cap equity in United States. The sandbox studies the following factor portfolios with their respective number of components. The VCG 500, G 100, V 100, VG 200, and C 300. The benchmark for the group is S&P 500. 4732 simulations were run. On average, the factor models delivered an annualized excess return up to 9% for the study period of 6 years since 2016. G 100 was the top performer across different periods and rankings. G, VCG, and VG had the highest Annualized Excess Returns and highest Information Ratios among the five factors with Tracking Errors in the range of 5% to 8%. VG and C had the least Tracking Error, while V 100 had the least Information Ratio among all the factors. The sandbox continued to highlight the poor performance of Value [V], the neutrality of Core [C], and the superior risk-return tradeoff with Growth [G], Value Growth [VG], and the Value Core Growth [VCG] method. The VCG had the highest number of components among all the factors and hence was the best overall factor model to compare with the benchmark.
+
+
+********** SP100 ************
+
+Exceptional & Rich U.S. 100 consists of the 100 large cap equity in United States. The sandbox studies the following factor portfolios with their respective number of components. The VCG 100, G 20, V 20, VG 40, and C 60. The benchmark for the group is S&P 100. 8370 simulations were run. On average, the factor models delivered an annualized excess return up to 9% for the study period of 6 years since 2016. G 20 was the top performer across different periods and rankings. G, VCG, and VG had the highest Annualized Excess Returns and highest Information Ratios among the five factors with Tracking Errors in the range of 4% to 7%. VG and C had the least Tracking Error, while V 20 had the least Information Ratio among all the factors. The sandbox continued to highlight the poor performance of Value [V], the neutrality of Core [C], and the superior risk-return trade off with Growth [G], Value Growth [VG], and the Value Core Growth [VCG] method. The VCG had the highest number of components among all the factors and hence was the best overall factor model to compare with the benchmark.
+
+
+********* BSE 100 **************
+
+Exceptional & Rich India 100 consists of the 100 large cap equity in India. The sandbox studies the following factor portfolios with their respective number of components. The VCG 100, G 20, V 20, VG 40, and C 60. The benchmark for the group is BSE 100. 4015 simulations were run. On average, the factor models delivered an annualized excess return from 5% to 20% for the study period of 6 years since 2016. G 20 was the top performer across different periods and rankings. G, VCG, and VG had the highest Annualized Excess Returns and highest Information Ratios among the five factors with Tracking Errors in the range of 10% to 13%. VCG and C had the least Tracking Error, while V 20 had the least Information Ratio among all the factors. The sandbox continued to highlight the poor performance of Value [V], the neutrality of Core [C], and the superior risk-return tradeoff with Growth [G], Value Growth [VG], and the Value Core Growth [VCG] method. The VCG had the highest number of components among all the factors and hence was the best overall factor model to compare with the benchmark.
+
+
+********* BSE 40 **************
+
+Exceptional & Rich India 40 consists of the 40 large cap equity in India. The sandbox studies the following factor portfolios with their respective number of components. The VCG 40, G 8, V 8, VG 16, and C 24. The benchmark for the group is BSE 100. 3685 simulations were run. On average, the factor models delivered an annualized excess return from 10% to 40% for the study period of 6 years since 2016. G 8 was the top performer across different periods and rankings. G, VCG, and VG had the highest Annualized Excess Returns and highest Information Ratios among the five factors with Tracking Errors in the range of 14% to 20%. VCG and C had the least Tracking Error, while V 8 had the least Information Ratio among all the factors. The sandbox continued to highlight the poor performance of Value [V], the neutrality of Core [C], and the superior risk-return tradeoff with Growth [G], Value Growth [VG], and the Value Core Growth [VCG] method. The VCG had the highest number of components among all the factors and hence was the best overall factor model to compare with the benchmark.
+
+********* TSX 60 **************
+
+Exceptional & Rich Canada 60 consists of the 60 large cap equity in Canada. The sandbox studies the following factor portfolios with their respective number of components. The VCG 60, G 12, V 12, VG 24, and C 36. The benchmark for the group is S&P TSX 60. 5935 simulations were run. On average, the factor models delivered an annualized excess return up to 14% for the study period of 6 years since 2016. G 12 was the top performer across different periods and rankings. G, VCG, and VG had the highest Annualized Excess Returns and highest Information Ratios among the five factors with Tracking Errors in the range of 8% to 18%. VCG and C had the least Tracking Error, while C 36 also had the least Information Ratio among all the factors. The sandbox highlights the neutrality of Core [C], and the superior risk-return tradeoff with Value [V], Growth [G], Value Growth [VG], and the Value Core Growth [VCG] method. The VCG had the highest number of components among all the factors and hence was the best overall factor model to compare with the benchmark.
+
+
