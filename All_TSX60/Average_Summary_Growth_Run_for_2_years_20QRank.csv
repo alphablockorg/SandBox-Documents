@@ -1,0 +1,26 @@
+"","2 Y 2020-05-28 to 2022-06-02","2 Y 2020-06-29 to 2022-07-03","2 Y 2020-07-28 to 2022-08-02","2 Y 2020-08-28 to 2022-09-02"
+"1",NA,NA,NA,NA
+"P Annualized Returns",-4.688,-11.57,-13.797,-14.34
+"B Annualized Returns",16.757,11.772,10.325,7.673
+"AR DIFF(P-B)",-21.445,-23.342,-24.122,-22.013
+"P Volatility",17.95,18.04,15.56,16.83
+"B Volatility",11.12,11.12,12.42,12.26
+"V DIFF(P-B)",6.83,6.92,3.14,4.57
+"P Tracking Error",13.92,14.28,12.37,12.51
+"B Tracking Error",NA,NA,NA,NA
+"IR",NA,NA,NA,NA
+"P Information Ratio",-1.54,-1.63,-1.95,-1.76
+"B Information Ratio",NA,NA,NA,NA
+"AS",NA,NA,NA,NA
+"P Alpha Stat",-2.01,-1.97,-2.03,-2
+"B Alpha Stat",NA,NA,NA,NA
+"BS",NA,NA,NA,NA
+"P Beta Stat",1.02,0.99,0.79,0.92
+"B Beta Stat",NA,NA,NA,NA
+"RS",NA,NA,NA,NA
+"P R-Squared",37.07,34.33,36.74,42.41
+"B R-Squared",NA,NA,NA,NA
+"MD",NA,NA,NA,NA
+"P Max Drawdown",-30.8179,-36.2375,-36.495,-35.8965
+"B Max Drawdown",-10.2681,-14.7947,-16.7839,-16.7839
+"MD DIFF(P-B)",-20.5498,-21.4428,-19.7111,-19.1126
