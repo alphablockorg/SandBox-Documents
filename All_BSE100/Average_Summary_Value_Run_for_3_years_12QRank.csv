@@ -1,0 +1,26 @@
+"","3 Y 2019-05-14 to 2022-05-15","3 Y 2019-06-14 to 2022-06-15","3 Y 2019-07-15 to 2022-07-15","3 Y 2019-08-14 to 2022-08-15","3 Y 2019-09-16 to 2022-09-15"
+"1",NA,NA,NA,NA,NA
+"P Annualized Returns",17.072,16.667,15.22,24.133,26.126
+"B Annualized Returns",12.542,10.846,11.663,17.502,18.5
+"AR DIFF(P-B)",4.53,5.821,3.557,6.631,7.626
+"P Volatility",28.26,28.31,27.29,30.03,28.87
+"B Volatility",22.93,23.18,23.06,23.33,23.26
+"V DIFF(P-B)",5.33,5.13,4.23,6.7,5.61
+"P Tracking Error",15,15.41,15.09,17.46,17.12
+"B Tracking Error",NA,NA,NA,NA,NA
+"IR",NA,NA,NA,NA,NA
+"P Information Ratio",0.3,0.38,0.24,0.38,0.45
+"B Information Ratio",NA,NA,NA,NA,NA
+"AS",NA,NA,NA,NA,NA
+"P Alpha Stat",0.39,0.45,0.42,0.61,0.93
+"B Alpha Stat",NA,NA,NA,NA,NA
+"BS",NA,NA,NA,NA,NA
+"P Beta Stat",1.05,1.02,0.99,1.05,1
+"B Beta Stat",NA,NA,NA,NA,NA
+"RS",NA,NA,NA,NA,NA
+"P R-Squared",71.12,69.5,68.53,65.32,63.78
+"B R-Squared",NA,NA,NA,NA,NA
+"MD",NA,NA,NA,NA,NA
+"P Max Drawdown",-41.5242,-41.5018,-40.8432,-42.6773,-40.8642
+"B Max Drawdown",-38.3055,-38.3055,-38.3055,-38.3055,-38.3055
+"MD DIFF(P-B)",-3.2187,-3.1963,-2.5377,-4.3718,-2.55869999999999

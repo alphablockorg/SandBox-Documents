@@ -1,0 +1,26 @@
+"","3 Y 2019-08-06 to 2022-08-07","3 Y 2019-09-06 to 2022-09-07"
+"1",NA,NA
+"P Annualized Returns",40.964,37.432
+"B Annualized Returns",17.117,17.683
+"AR DIFF(P-B)",23.847,19.749
+"P Volatility",30.07,29.05
+"B Volatility",23.33,23.26
+"V DIFF(P-B)",6.74,5.79
+"P Tracking Error",12.71,12.13
+"B Tracking Error",NA,NA
+"IR",NA,NA
+"P Information Ratio",1.88,1.63
+"B Information Ratio",NA,NA
+"AS",NA,NA
+"P Alpha Stat",1.44,1.37
+"B Alpha Stat",NA,NA
+"BS",NA,NA
+"P Beta Stat",1.18,1.14
+"B Beta Stat",NA,NA
+"RS",NA,NA
+"P R-Squared",83.66,83.41
+"B R-Squared",NA,NA
+"MD",NA,NA
+"P Max Drawdown",-40.4069,-39.9842
+"B Max Drawdown",-38.3055,-38.3055
+"MD DIFF(P-B)",-2.1014,-1.6787

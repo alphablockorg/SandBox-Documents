@@ -1,0 +1,26 @@
+"","1 Y 2021-05-17 to 2022-05-18","1 Y 2021-06-17 to 2022-06-18","1 Y 2021-07-19 to 2022-07-18","1 Y 2021-08-17 to 2022-08-18","1 Y 2021-09-17 to 2022-09-18"
+"1",NA,NA,NA,NA,NA
+"P Annualized Returns",7.535,1.022,10.971,21.796,9.66
+"B Annualized Returns",9.627,-1.982,1.466,8.914,4.431
+"AR DIFF(P-B)",-2.092,3.004,9.505,12.882,5.229
+"P Volatility",22.53,21.54,23.59,25.36,18.06
+"B Volatility",14.79,16.03,17.12,17.17,17.15
+"V DIFF(P-B)",7.74,5.51,6.47,8.19,0.91
+"P Tracking Error",18.94,19.22,18.68,16.4,6.33
+"B Tracking Error",NA,NA,NA,NA,NA
+"IR",NA,NA,NA,NA,NA
+"P Information Ratio",-0.11,0.16,0.51,0.79,0.83
+"B Information Ratio",NA,NA,NA,NA,NA
+"AS",NA,NA,NA,NA,NA
+"P Alpha Stat",0.18,0.6,0.74,1.52,0.29
+"B Alpha Stat",NA,NA,NA,NA,NA
+"BS",NA,NA,NA,NA,NA
+"P Beta Stat",0.84,0.68,0.85,1.13,0.99
+"B Beta Stat",NA,NA,NA,NA,NA
+"RS",NA,NA,NA,NA,NA
+"P R-Squared",22.71,17.72,31.62,54.43,86.35
+"B R-Squared",NA,NA,NA,NA,NA
+"MD",NA,NA,NA,NA,NA
+"P Max Drawdown",-19.4151,-18.0775,-19.0262,-19.3247,-19.5138
+"B Max Drawdown",-14.3334,-16.6901,-17.1929,-17.1929,-17.1929
+"MD DIFF(P-B)",-5.0817,-1.3874,-1.8333,-2.1318,-2.3209
